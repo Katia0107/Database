@@ -3,3 +3,6 @@
 
 JOIN в MySQL
 https://docs.google.com/spreadsheets/d/1AxkitIAyj-SD3Nldo5bwI_GFAhwHljEkvjuDyeVtrBM/edit?usp=sharing
+
+Работа с MongoDB
+https://docs.google.com/spreadsheets/d/1NiW9d_233lGfImx9ukJJ7Akas-1YpYxJ3y8OYZg543k/edit?usp=sharing
